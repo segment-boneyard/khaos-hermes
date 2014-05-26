@@ -7,7 +7,7 @@
 
     $ npm install {{basename}}
 
-## Usage
+And then in your `hermes.json`:
 
 ```json
 {
@@ -16,6 +16,10 @@
   }
 }
 ```
+
+## Commands
+
+TODO
 
 {{#mit}}## License
 
